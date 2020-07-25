@@ -1,0 +1,39 @@
+html, body {
+    font-size: 10px;
+    background: #fff;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+body {margin:0;}
+
+h1 {
+  position:relative;
+  margin:0px auto;
+  width:auto;
+  padding-bottom:0px;
+  font-size:4.1rem;
+  font-weight:300;
+  letter-spacing: -0.15rem;
+  color:#FFF
+}
+
+header {
+  background:#000;
+  text-align:center;
+  padding:10px;
+}
+header p {color:#fff;}
+
+#wrapper {
+  width : 90%;
+  margin : 0px auto;
+}
+
+#digitoVerificador{
+    max-width: 30px;
+}
+
+#msgerror {
+    font-size:1.4em;
+}
+
